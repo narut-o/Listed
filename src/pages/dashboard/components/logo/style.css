@@ -1,0 +1,30 @@
+
+.logo-divv{
+   
+    margin-left: 90px;
+    font-family: montserrat;
+    font-weight: 700;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+   
+}
+.logo-divv>h1{
+    color: black;
+    font-size: 24px;
+    text-align: start;
+}
+.search-icon{
+    height: 10px;
+}
+.form-box input,
+    textarea {
+        display: block;
+        width: 100%;
+        padding: 0.5rem 0.8rem 0.5rem 0.8rem;
+        margin: 0.9vw 0;
+        border: 0;
+        border-radius: 5px;
+        font-size: 20px;
+      }
+      
